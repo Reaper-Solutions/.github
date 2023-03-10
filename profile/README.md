@@ -2,6 +2,6 @@
 
 Maintainers of ReaperSanction
 
-Soon new plugins and an RPG server.
+Soon new plugins if we have time.
 
-We may change the organization name in the future (all domains names are taken)
+We may change the organization name in the future.
